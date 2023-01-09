@@ -28,6 +28,8 @@ export type HomeScreenNavigationProp = CompositeNavigationProp<
     BottomTabNavigationProp<HomeBottomTabNavigatorParamList, "Feed">
 >;
 
+// export type HomeProps = NativeStackNavigationProp<HomeStackNavigatorParamList, "Home">
+
 /** 
 type
 - describes shape of an object or function signature
